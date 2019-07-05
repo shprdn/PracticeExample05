@@ -24,9 +24,7 @@ f. For students having same name and age, sort them according to their ID.
 
 
 5. Write a method that accepts a Map object having two key-value pairs with the keys val1 and val2.
-Modify and return the given map as follows:
-a. If the key `val1` has
-b. Set the key `val1` to
+
 
 
 6. Write a program to implement set interface which sorts the given randomly ordered names inascending order. Convert the sorted set in to an ​ array list
